@@ -10,6 +10,19 @@ public class MergeSort implements Sortable{
     @Override
     public void sort(int[] arr, SortingPanel visualizer) {
 
+//        int start = 0;
+//        int end = arr.length - 1;
+//
+//        if (start > end) {
+//            return;
+//        }
+//
+//        int mid = (end + start) / 2;
+//
+//        while (start < end) {
+//
+//        }
+
 
     }
 
